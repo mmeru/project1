@@ -9,7 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ProfAvery/cpsc349-project1.git"
+    "url": "git+https://github.com/ProfAvery/cpsc349-project1.git",
+    "build": "eleventy"
   },
   "author": "Kenytt Avery",
   "license": "UNLICENSED",
