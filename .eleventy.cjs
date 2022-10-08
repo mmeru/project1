@@ -3,9 +3,5 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setBrowserSyncConfig({
     notify: true,
     open: true
-    dir: {
-      input: "src",
-      output: "docs"
-  }
   })
 }
